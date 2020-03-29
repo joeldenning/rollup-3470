@@ -1,0 +1,14 @@
+{
+  "name": "rollup-3470",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:joeldenning/rollup-3470.git",
+  "author": "Joel Denning <joeldenning@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^2.3.0"
+  }
+}
