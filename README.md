@@ -2,6 +2,7 @@
 
 Rollup 2.3.0:
 
+1. `git checkout master`
 1. `yarn install`
 2. `yarn build`
 
