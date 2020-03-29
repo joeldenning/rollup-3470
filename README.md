@@ -1,5 +1,7 @@
 # rollup-3470
 
+See https://github.com/rollup/rollup/issues/3470
+
 Rollup 2.3.0:
 
 1. `git checkout master`
